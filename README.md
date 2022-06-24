@@ -6,7 +6,7 @@
 
 #### 源码地址
 
-https://gitee.com/geeeeeeeek/okex-demo
+https://github.com/geeeeeeeek/OkexDemo
 
 #### 效果预览
 
